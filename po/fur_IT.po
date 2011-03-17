@@ -109,7 +109,7 @@ msgstr ""
 #: Bad_Moon_Rising/_main.cfg:68
 msgid ""
 "The best of intentions often do not lead to the best results.  A rebellion "
-"against the ruler of a remote northern kingdom unwittingly fur_ITthers the "
+"against the ruler of a remote northern kingdom unwittingly furthers the "
 "goals of a much worse oppressor."
 msgstr ""
 
@@ -291,7 +291,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios1/0_01_Abandoned.cfg:25
 msgid ""
 "One such expedition into the frozen North discovered a cavern containing a "
-"palatial hall of polished marble and gold detailing. Upon fur_ITther "
+"palatial hall of polished marble and gold detailing. Upon further "
 "investigation, the explorers uncovered chambers full of exotic artifacts and "
 "metal objects of intricate design, like nothing any of the party had seen "
 "before. Though made of common bronze and steel, the objects would be of "
@@ -1500,7 +1500,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:151
 msgid ""
 "That will not be necessary... General Burton will go to Fort Kuhle, you will "
-"await fur_ITther orders."
+"await further orders."
 msgstr ""
 
 #. [message]: speaker=Maskov
@@ -5004,7 +5004,7 @@ msgstr ""
 #. [message]: role=Scout
 #: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:324
 msgid ""
-"It gets warmer fur_ITther south, but there is something strange about the "
+"It gets warmer further south, but there is something strange about the "
 "forests."
 msgstr ""
 
@@ -5025,7 +5025,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:336
 msgid ""
 "So, the woods are inhabited by something or someone that may prey upon us. "
-"We should avoid going any fur_ITther down the road until we know this land "
+"We should avoid going any further down the road until we know this land "
 "better. We'll need to burrow in here-"
 msgstr ""
 
@@ -5209,7 +5209,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:652
 msgid ""
 "Well, the good news is that the orc leader is chief of the hostile tribe. If "
-"we defeat him, it will be a powerful sign and we should be safe from fur_ITther "
+"we defeat him, it will be a powerful sign and we should be safe from further "
 "attack. At least for a while."
 msgstr ""
 
@@ -7759,7 +7759,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios3/2_04_River.cfg:244
 msgid ""
 "As I said, we got separated. I don't know where Carghanna is. Others are "
-"probably scattered fur_ITther downriver."
+"probably scattered further downriver."
 msgstr ""
 
 #. [message]: speaker=C_Belleros
@@ -8396,7 +8396,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios3/2_05_Blind.cfg:763
 msgid ""
 "I remember you...  You are not friends of the blue people? Lord Skalla will "
-"wish to speak with you, he is fur_ITther up this pass."
+"wish to speak with you, he is further up this pass."
 msgstr ""
 
 #. [message]: speaker=C_Belleros
@@ -9867,7 +9867,7 @@ msgstr ""
 #. [message]: speaker=Raenna
 #: Bad_Moon_Rising/scenarios3/2_07_Dreams2.cfg:1524
 msgid ""
-"<i>(Uhg)</i> I can't carry this thing any fur_ITther, we will just have to hope "
+"<i>(Uhg)</i> I can't carry this thing any further, we will just have to hope "
 "that is far enough."
 msgstr ""
 
@@ -10593,7 +10593,7 @@ msgid ""
 "Huric spent much of his time sword-training and wolf-hunting with his small "
 "circle of friends, and showed no interest in the mundane offices (such as "
 "crop storage or village sanitation) necessary for the survival of the "
-"kingdom. The vile nature of his friends was fur_ITther cause for alarm, as he "
+"kingdom. The vile nature of his friends was further cause for alarm, as he "
 "seemed oblivious to the terror they wrought upon the lower classes. His "
 "aging parents began to despair of what would happen to the kingdom after "
 "they passed on, for no matter how unfit to rule, Huric was sure to be King. "
