@@ -169,7 +169,7 @@ msgstr ""
 #. [unit]: id=Scarrion, type=Dark Messiah
 #: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:212
 #: Bad_Moon_Rising/scenarios1/0_02_Bad.cfg:33
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:222
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:222
 #: Bad_Moon_Rising/scenarios1/0_04_Darkside.cfg:61
 #: Bad_Moon_Rising/scenarios1/0_01_Abandoned.cfg:59
 #: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:73
@@ -317,7 +317,7 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: Bad_Moon_Rising/scenarios1/0_02_Bad.cfg:25
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:65
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:65
 #: Bad_Moon_Rising/scenarios1/0_04_Darkside.cfg:52
 #: Bad_Moon_Rising/scenarios1/0_01_Abandoned.cfg:43
 #: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:61
@@ -555,7 +555,7 @@ msgstr ""
 
 #. [side]: type=Necromancer, id=Malevan
 #: Bad_Moon_Rising/scenarios1/0_02_Bad.cfg:43
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:233
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:233
 #: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:150
 msgid "Malevan"
 msgstr ""
@@ -610,7 +610,7 @@ msgstr ""
 
 #. [message]: speaker=Scarrion
 #: Bad_Moon_Rising/scenarios1/0_02_Bad.cfg:262
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:568
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:568
 #: Bad_Moon_Rising/scenarios1/0_04_Darkside.cfg:356
 #: Bad_Moon_Rising/scenarios1/0_02b_Trial.cfg:250
 msgid "I blame Bersohn, damn his soul..."
@@ -720,7 +720,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:47
 #: Bad_Moon_Rising/scenarios3/2_05_Blind.cfg:46
 #: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:67
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:69
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:69
 #: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:57
 #: Bad_Moon_Rising/scenarios1/0_02b_Trial.cfg:53
 #: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:40
@@ -776,34 +776,34 @@ msgid ""
 "a good undead servant."
 msgstr ""
 
-#. [scenario]: id=03_Unb_NOreakable
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:4
-msgid "Unb_NOreakable"
+#. [scenario]: id=03_Unbreakable
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:4
+msgid "Unbreakable"
 msgstr ""
 
 #. [part]
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:18
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:18
 msgid ""
 "When the shadow was defeated, two undead warriors marched forward to grab "
 "Scarrion and drag him back to his cell."
 msgstr ""
 
 #. [part]
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:22
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:22
 msgid ""
 "Hours later, when he tried to sleep on the cold floor of his cell, Scarrion "
 "noticed a shadowy figure standing over him."
 msgstr ""
 
 #. [part]
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:26
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:26
 msgid ""
 "Scarrion's eyes could not focus on the figure, and when the scuffing sounds "
 "of an approaching undead grew closer, the shadow departed."
 msgstr ""
 
 #. [part]
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:30
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:30
 msgid ""
 "Scarrion did not know everything the Necromancer had done, but he knew "
 "something strange was happening, and it might mean there was a way out. When "
@@ -812,7 +812,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:34
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:34
 msgid ""
 "The necromancer wanted to transcribe painted glyphs from stone surfaces to "
 "paper notebooks, a task that was tedious but still too complex for a "
@@ -821,7 +821,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:38
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:38
 msgid ""
 "From stolen glances at the necromancer's notes, Scarrion gleaned that "
 "Malevan was researching the glyphs to learn some form of powerful magic, not "
@@ -832,7 +832,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:41
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:41
 msgid ""
 "In retrospect, that was probably a mistake. Soon after, Malevan directed two "
 "large undead warriors to drag Scarrion over to an altar in his workshop and "
@@ -840,14 +840,14 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:44
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:44
 msgid ""
 "'You are too clever by half. I can use your assistance, but not when I can't "
 "trust you. Soon, you will be much more trustworthy - GHAAhh!'"
 msgstr ""
 
 #. [part]
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:47
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:47
 msgid ""
 "Scarrion had freed one foot and kicked the dagger from the hand of the "
 "necromancer, breaking the aged claw in the process. The necromancer ordered "
@@ -856,7 +856,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:51
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:51
 msgid ""
 "The undead may not feel boredom or fatigue, but it seems they cannot hold "
 "down a man desperately fighting for dear life. Scarrion broke free and "
@@ -866,12 +866,12 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Bad_Moon_Rising/scenarios3/2_06_Gate.cfg:568
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:61
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:61
 msgid "Reach the North edge of the map"
 msgstr ""
 
 #. [objectives]
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:71
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:71
 msgid ""
 "Hint: You are grossly outnumbered. Don't waste time exploring, just head "
 "north."
@@ -880,35 +880,35 @@ msgstr ""
 #. [unit]: type=BMR_Ghost_Footpad, id=GRussle
 #. [unit]: type=BMR_Ghost_Outlaw, id=GRussle
 #. [unit]: type=BMR_Ghost_Fugitive, id=GRussle
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:81
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:92
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:103
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:113
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:81
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:92
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:103
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:113
 msgid "Ghost of Russle"
 msgstr ""
 
 #. [unit]: type=BMR_Ghost_Dwarvish_Fighter, id=GAltos
 #. [unit]: type=BMR_Ghost_Steelclad, id=GAltos
 #. [unit]: type=BMR_Ghost_Dwarvish_Lord, id=GAltos
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:129
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:140
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:151
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:162
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:129
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:140
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:151
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:162
 msgid "Ghost of Altos"
 msgstr ""
 
 #. [unit]: type=BMR_Ghost_Bowman, id=GTherion
 #. [unit]: type=BMR_Ghost_Longbowman, id=GTherion
 #. [unit]: type=BMR_Ghost_Master_Bowman, id=GTherion
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:177
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:188
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:199
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:209
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:177
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:188
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:199
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:209
 msgid "Ghost of Therion"
 msgstr ""
 
 #. [message]: speaker=Scarrion
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:456
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:456
 msgid ""
 "Malevan is to the west, but there is another path to the north. It leads "
 "deeper into the cave, but the undead do not roam the corridors. It's my only "
@@ -916,17 +916,17 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=GTherion
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:460
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:460
 msgid "Scarrion... Don't forget us..."
 msgstr ""
 
 #. [message]: speaker=Scarrion
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:464
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:464
 msgid "Therion? How can this be?"
 msgstr ""
 
 #. [message]: speaker=GTherion
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:468
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:468
 msgid ""
 "Malevan is getting sloppy, distracted by his quest for the knowledge of this "
 "cave. We can help you... If you succeed, this will not have been for... "
@@ -934,69 +934,69 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=GAltos
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:472
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:472
 msgid "We cannot go with you though... We are tied to this cave..."
 msgstr ""
 
 #. [message]: speaker=Scarrion
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:476
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:476
 msgid "I will make sure Malevan pays for this!"
 msgstr ""
 
 #. [message]: speaker=Scarrion
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:488
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:488
 msgid ""
 "I think I'm clear of Malevan's slaves. I will make him pay threefold for "
 "what he has done to us!"
 msgstr ""
 
 #. [message]: speaker=GAltos
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:492
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:492
 msgid "Good luck, Scarrion."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:509
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:509
 msgid "Why don't I just kill the necromancer..."
 msgstr ""
 
 #. [message]: speaker=Malevan
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:513
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:513
 msgid "Don't be ridiculous!"
 msgstr ""
 
 #. [message]: speaker=Malevan
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:536
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:536
 msgid "That was a mistake, dear fellow!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:582
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:582
 msgid "Ah, but there is no rest for me..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:615
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:615
 msgid "This does not end..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:649
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:649
 msgid "Here we go again..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:683
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:683
 msgid "Uh-oh..."
 msgstr ""
 
 #. [message]: speaker=Scarrion
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:699
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:699
 msgid "(Therion was right, this looks hopeless...)  Damn corpses!"
 msgstr ""
 
 #. [message]: speaker=Malevan
-#: Bad_Moon_Rising/scenarios1/0_03_Unb_NOreakable.cfg:703
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:703
 msgid "Just where do you think you're going!?"
 msgstr ""
 
@@ -2657,7 +2657,7 @@ msgstr ""
 #. [message]: speaker=General Burton
 #: Bad_Moon_Rising/scenarios2/1_03_Camp.cfg:642
 msgid ""
-"Don't be so naive, Carson, it's unb_NOecoming in an outlaw... Besides, you are "
+"Don't be so naive, Carson, it's unbecoming in an outlaw... Besides, you are "
 "not bargaining from a position of strength."
 msgstr ""
 
