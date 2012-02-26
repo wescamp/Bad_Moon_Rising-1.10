@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-10-19 22:37-0400\n"
+"POT-Creation-Date: 2012-02-26 17:18+0100\n"
 "PO-Revision-Date: 2011-02-21 15:35+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -133,13 +133,13 @@ msgid ""
 msgstr ""
 
 #. [about]
-#: Bad_Moon_Rising/about2.cfg:7 Bad_Moon_Rising/about3.cfg:7
-#: Bad_Moon_Rising/about1.cfg:7
+#: Bad_Moon_Rising/about1.cfg:7 Bad_Moon_Rising/about2.cfg:7
+#: Bad_Moon_Rising/about3.cfg:7
 msgid "Author"
 msgstr ""
 
 #. [about]
-#: Bad_Moon_Rising/about2.cfg:14 Bad_Moon_Rising/about1.cfg:14
+#: Bad_Moon_Rising/about1.cfg:14 Bad_Moon_Rising/about2.cfg:14
 msgid "Special Thanks To (forum.wesnoth.org names):"
 msgstr ""
 
@@ -165,27 +165,27 @@ msgid ""
 msgstr ""
 
 #. [terrain_type]: id=bmr_salvation_gate
-#. [time]: id=volcano
 #. [scenario]: id=2_07_Volcano, race=khthon id=Athanta 0 (
+#. [time]: id=volcano
 #: Bad_Moon_Rising/utils/terrain.cfg:82
-#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:23
 #: Bad_Moon_Rising/scenarios3/2_07_Volcano.cfg:9
+#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:23
 msgid "Volcano"
 msgstr ""
 
 #. [unit]: type=Dark Messiah, id=Scarrion
-#. [unit]: id=Scarrion, type=Dark Messiah
 #. [side]: type=Spearman, id=Scarrion
+#. [unit]: id=Scarrion, type=Dark Messiah
+#: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:212
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:221
+#: Bad_Moon_Rising/scenarios1/0_02b_Trial.cfg:142
+#: Bad_Moon_Rising/scenarios1/0_04_Darkside.cfg:59
+#: Bad_Moon_Rising/scenarios1/0_02_Bad.cfg:32
+#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:46
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:72
+#: Bad_Moon_Rising/scenarios1/0_01_Abandoned.cfg:58
 #: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:309
 #: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:783
-#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:46
-#: Bad_Moon_Rising/scenarios1/0_02_Bad.cfg:32
-#: Bad_Moon_Rising/scenarios1/0_04_Darkside.cfg:59
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:72
-#: Bad_Moon_Rising/scenarios1/0_02b_Trial.cfg:142
-#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:221
-#: Bad_Moon_Rising/scenarios1/0_01_Abandoned.cfg:58
-#: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:212
 msgid "Scarrion"
 msgstr ""
 
@@ -325,11 +325,11 @@ msgid "Escape the Trolls"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Bad_Moon_Rising/scenarios1/0_02_Bad.cfg:24
-#: Bad_Moon_Rising/scenarios1/0_04_Darkside.cfg:50
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:60
-#: Bad_Moon_Rising/scenarios1/0_02b_Trial.cfg:48
 #: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:64
+#: Bad_Moon_Rising/scenarios1/0_02b_Trial.cfg:48
+#: Bad_Moon_Rising/scenarios1/0_04_Darkside.cfg:50
+#: Bad_Moon_Rising/scenarios1/0_02_Bad.cfg:24
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:60
 #: Bad_Moon_Rising/scenarios1/0_01_Abandoned.cfg:42
 msgid "Death of Scarrion"
 msgstr ""
@@ -340,14 +340,14 @@ msgid "Death of Therion"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:61
-#: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:767
-#: Bad_Moon_Rising/scenarios2/1_06_Guardian.cfg:39
-#: Bad_Moon_Rising/scenarios2/1_04_Fort.cfg:40
-#: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:134
-#: Bad_Moon_Rising/scenarios2/1_07_Visit.cfg:65
 #: Bad_Moon_Rising/utils/skirmish.cfg:1918
 #: Bad_Moon_Rising/scenarios1/0_01_Abandoned.cfg:50
+#: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:61
+#: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:767
+#: Bad_Moon_Rising/scenarios2/1_07_Visit.cfg:65
+#: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:134
+#: Bad_Moon_Rising/scenarios2/1_06_Guardian.cfg:39
+#: Bad_Moon_Rising/scenarios2/1_04_Fort.cfg:40
 msgid "Time Runs Out"
 msgstr ""
 
@@ -562,9 +562,9 @@ msgid "Scarrion survives to the end of turns"
 msgstr ""
 
 #. [side]: type=Necromancer, id=Malevan
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:232
 #: Bad_Moon_Rising/scenarios1/0_02_Bad.cfg:42
 #: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:148
-#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:232
 msgid "Malevan"
 msgstr ""
 
@@ -617,10 +617,10 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Scarrion
-#: Bad_Moon_Rising/scenarios1/0_02_Bad.cfg:261
-#: Bad_Moon_Rising/scenarios1/0_04_Darkside.cfg:352
-#: Bad_Moon_Rising/scenarios1/0_02b_Trial.cfg:249
 #: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:599
+#: Bad_Moon_Rising/scenarios1/0_02b_Trial.cfg:249
+#: Bad_Moon_Rising/scenarios1/0_04_Darkside.cfg:352
+#: Bad_Moon_Rising/scenarios1/0_02_Bad.cfg:261
 msgid "I blame Bersohn, damn his soul..."
 msgstr ""
 
@@ -716,24 +716,24 @@ msgid "Defeat Opponent"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:39
-#: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:715
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:56
-#: Bad_Moon_Rising/scenarios1/0_02b_Trial.cfg:52
-#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:68
-#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:45
-#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:528
-#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:42
-#: Bad_Moon_Rising/scenarios3/2_05_Blind.cfg:45
-#: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:47
-#: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:39
-#: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:370
 #: Bad_Moon_Rising/scenarios3/2_07_Volcano.cfg:1453
 #: Bad_Moon_Rising/scenarios3/2_07_Volcano.cfg:1542
-#: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:66
 #: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:53
 #: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:668
+#: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:66
+#: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:39
+#: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:370
 #: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:42
+#: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:47
+#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:42
+#: Bad_Moon_Rising/scenarios3/2_05_Blind.cfg:45
+#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:45
+#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:528
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:68
+#: Bad_Moon_Rising/scenarios1/0_02b_Trial.cfg:52
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:56
+#: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:39
+#: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:715
 msgid "Time runs out"
 msgstr ""
 
@@ -765,11 +765,11 @@ msgstr ""
 msgid "I think I killed it..."
 msgstr ""
 
-#. [message]: speaker=narrator
 #. [message]: speaker=Raenna
+#. [message]: speaker=narrator
+#: Bad_Moon_Rising/scenarios3/2_05_Blind.cfg:500
 #: Bad_Moon_Rising/scenarios1/0_02b_Trial.cfg:209
 #: Bad_Moon_Rising/scenarios1/0_02b_Trial.cfg:267
-#: Bad_Moon_Rising/scenarios3/2_05_Blind.cfg:500
 msgid "Indeed..."
 msgstr ""
 
@@ -874,8 +874,8 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:60
 #: Bad_Moon_Rising/scenarios3/2_06_Gate.cfg:566
+#: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:60
 msgid "Reach the North edge of the map"
 msgstr ""
 
@@ -1015,8 +1015,8 @@ msgid "Join the Dark Side"
 msgstr ""
 
 #. [time]: id=BMR_darkcave
-#: Bad_Moon_Rising/scenarios1/0_04_Darkside.cfg:18
 #: Bad_Moon_Rising/scenarios3/2_05_West.cfg:14
+#: Bad_Moon_Rising/scenarios1/0_04_Darkside.cfg:18
 msgid "Dark Cave"
 msgstr ""
 
@@ -1087,12 +1087,12 @@ msgstr ""
 msgid "Damn, a chasm. This doesn't lead anywhere, I'm trapped..."
 msgstr ""
 
-#. [unit]: type=Primeval Storm, id=Athanta
 #. [side]: type=Primeval Storm, id=Athanta
-#: Bad_Moon_Rising/scenarios1/0_04_Darkside.cfg:189
-#: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:172
+#. [unit]: type=Primeval Storm, id=Athanta
 #: Bad_Moon_Rising/scenarios3/2_07_Salvation.cfg:180
 #: Bad_Moon_Rising/scenarios3/2_07_Volcano.cfg:269
+#: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:172
+#: Bad_Moon_Rising/scenarios1/0_04_Darkside.cfg:189
 msgid "Athanta"
 msgstr ""
 
@@ -1182,7 +1182,7 @@ msgid "Payback"
 msgstr ""
 
 #. [part]
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:19
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:18
 msgid ""
 "Scarrion lost conciousness. When he awoke, he was in the lit chamber and "
 "dressed in odd clothes. He jumped to his feet and noticed he felt... "
@@ -1193,7 +1193,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:25
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:22
 msgid ""
 "'You feel much better now, yes?'\n"
 "'Yes, who-'  \n"
@@ -1205,7 +1205,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:36
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:32
 msgid ""
 "'Banish the night and spread dimwitted creatures over the land, as your kind "
 "wishes to do, and you will suffer greatly.'\n"
@@ -1385,60 +1385,60 @@ msgstr ""
 msgid "Orders"
 msgstr ""
 
-#. [side]: type=Ukian Subcommander, id=Lorenzon
-#. [side]: type=Ukian Commander, id=Lorenzon
 #. [side]: type=Lieutenant, id=Lorenzon
+#. [side]: type=Ukian Commander, id=Lorenzon
 #. [side]: type=Lieutenant, id=Lorenzon_t
+#. [side]: type=Ukian Subcommander, id=Lorenzon
+#: Bad_Moon_Rising/utils/ZZ_error.cfg:39
+#: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:114
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:110
+#: Bad_Moon_Rising/scenarios3/2_03_World.cfg:50
+#: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:92
+#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:143
+#: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:100
+#: Bad_Moon_Rising/scenarios3/2_02_World.cfg:44
+#: Bad_Moon_Rising/scenarios3/Shops.cfg:18
+#: Bad_Moon_Rising/scenarios3/Shops.cfg:100
+#: Bad_Moon_Rising/scenarios2/1_09_Ruin.cfg:119
+#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:37
+#: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:58
+#: Bad_Moon_Rising/scenarios2/1_02_Rescue.cfg:76
+#: Bad_Moon_Rising/scenarios2/1_05_Defend.cfg:58
+#: Bad_Moon_Rising/scenarios2/1_05_Defend.cfg:256
+#: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:124
+#: Bad_Moon_Rising/scenarios2/1_07_Visit.cfg:73
+#: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:147
+#: Bad_Moon_Rising/scenarios2/1_04_World.cfg:41
+#: Bad_Moon_Rising/scenarios2/1_10_World.cfg:45
+#: Bad_Moon_Rising/scenarios2/1_10_Epilogue.cfg:95
+#: Bad_Moon_Rising/scenarios2/1_03_Camp.cfg:71
+#: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:51
+#: Bad_Moon_Rising/scenarios2/1_09_World.cfg:40
 #: Bad_Moon_Rising/scenarios2/Shops.cfg:18
 #: Bad_Moon_Rising/scenarios2/Shops.cfg:100
 #: Bad_Moon_Rising/scenarios2/Shops.cfg:182
 #: Bad_Moon_Rising/scenarios2/Shops.cfg:264
-#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:37
-#: Bad_Moon_Rising/scenarios2/1_09_World.cfg:40
-#: Bad_Moon_Rising/scenarios2/1_02_World.cfg:61
-#: Bad_Moon_Rising/scenarios2/1_04_World.cfg:41
-#: Bad_Moon_Rising/scenarios2/1_10_Epilogue.cfg:95
-#: Bad_Moon_Rising/scenarios2/1_05_Defend.cfg:58
-#: Bad_Moon_Rising/scenarios2/1_05_Defend.cfg:256
 #: Bad_Moon_Rising/scenarios2/1_07_World.cfg:43
-#: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:124
-#: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:58
-#: Bad_Moon_Rising/scenarios2/1_03_Camp.cfg:71
 #: Bad_Moon_Rising/scenarios2/1_06_Guardian.cfg:47
-#: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:51
-#: Bad_Moon_Rising/scenarios2/1_06_World.cfg:41
-#: Bad_Moon_Rising/scenarios2/1_08_World.cfg:41
-#: Bad_Moon_Rising/scenarios2/1_02_Rescue.cfg:76
 #: Bad_Moon_Rising/scenarios2/1_04_Fort.cfg:51
-#: Bad_Moon_Rising/scenarios2/1_10_World.cfg:45
-#: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:147
-#: Bad_Moon_Rising/scenarios2/1_09_Ruin.cfg:119
-#: Bad_Moon_Rising/scenarios2/1_07_Visit.cfg:73
-#: Bad_Moon_Rising/utils/ZZ_error.cfg:39
-#: Bad_Moon_Rising/scenarios3/Shops.cfg:18
-#: Bad_Moon_Rising/scenarios3/Shops.cfg:100
-#: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:100
-#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:143
-#: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:92
-#: Bad_Moon_Rising/scenarios3/2_03_World.cfg:50
-#: Bad_Moon_Rising/scenarios3/2_02_World.cfg:44
-#: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:114
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:110
+#: Bad_Moon_Rising/scenarios2/1_08_World.cfg:41
+#: Bad_Moon_Rising/scenarios2/1_06_World.cfg:41
+#: Bad_Moon_Rising/scenarios2/1_02_World.cfg:61
 msgid "Lorenzon"
 msgstr ""
 
 #. [side]: type=Lieutenant, id=Cantwell
 #. [side]: type=Lieutenant, id=Officer Cantwell
+#: Bad_Moon_Rising/utils/ZZ_error.cfg:59
 #: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:57
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:114
-#: Bad_Moon_Rising/utils/ZZ_error.cfg:59
 msgid "Officer Cantwell"
 msgstr ""
 
 #. [side]: type=Huric, id=Huric
 #: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:70
-#: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:161
 #: Bad_Moon_Rising/scenarios2/1_07_Visit.cfg:198
+#: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:161
 msgid "King Huric"
 msgstr ""
 
@@ -1603,32 +1603,32 @@ msgid "Kill Enemy leader"
 msgstr ""
 
 #. [objective]: condition=lose
+#: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:50
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:26
+#: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:27
+#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:26
+#: Bad_Moon_Rising/scenarios2/1_09_Ruin.cfg:53
+#: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:45
+#: Bad_Moon_Rising/scenarios2/1_02_Rescue.cfg:54
 #: Bad_Moon_Rising/scenarios2/1_05_Defend.cfg:240
 #: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:49
 #: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:759
-#: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:45
+#: Bad_Moon_Rising/scenarios2/1_07_Visit.cfg:49
+#: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:122
 #: Bad_Moon_Rising/scenarios2/1_03_Camp.cfg:44
-#: Bad_Moon_Rising/scenarios2/1_06_Guardian.cfg:23
 #: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:23
 #: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:703
-#: Bad_Moon_Rising/scenarios2/1_02_Rescue.cfg:54
+#: Bad_Moon_Rising/scenarios2/1_06_Guardian.cfg:23
 #: Bad_Moon_Rising/scenarios2/1_04_Fort.cfg:32
-#: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:122
-#: Bad_Moon_Rising/scenarios2/1_09_Ruin.cfg:53
-#: Bad_Moon_Rising/scenarios2/1_07_Visit.cfg:49
-#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:26
-#: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:27
-#: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:50
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:26
 msgid "Death of Lorenzon"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Bad_Moon_Rising/scenarios2/1_05_Defend.cfg:244
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:49
+#: Bad_Moon_Rising/scenarios2/1_02_Rescue.cfg:58
+#: Bad_Moon_Rising/scenarios2/1_05_Defend.cfg:244
 #: Bad_Moon_Rising/scenarios2/1_03_Camp.cfg:52
 #: Bad_Moon_Rising/scenarios2/1_06_Guardian.cfg:31
-#: Bad_Moon_Rising/scenarios2/1_02_Rescue.cfg:58
 #: Bad_Moon_Rising/scenarios2/1_04_Fort.cfg:36
 msgid "Death of Duval"
 msgstr ""
@@ -1795,17 +1795,17 @@ msgid ""
 "Lorenzon, you are our only hope... The people of Gornath are at your service."
 msgstr ""
 
-#. [message]: speaker=second_unit
 #. [message]: speaker=Officer Cantwell
+#. [message]: speaker=second_unit
+#. [message]: speaker=General Huston
 #. [message]: speaker=General Burton
 #. [message]: speaker=General Drago
-#. [message]: speaker=General Huston
-#: Bad_Moon_Rising/scenarios2/1_05_Defend.cfg:526
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:423
-#: Bad_Moon_Rising/scenarios2/1_03_Camp.cfg:326
 #: Bad_Moon_Rising/scenarios2/1_02_Rescue.cfg:735
-#: Bad_Moon_Rising/scenarios2/1_04_Fort.cfg:198
+#: Bad_Moon_Rising/scenarios2/1_05_Defend.cfg:526
 #: Bad_Moon_Rising/scenarios2/1_07_Visit.cfg:407
+#: Bad_Moon_Rising/scenarios2/1_03_Camp.cfg:326
+#: Bad_Moon_Rising/scenarios2/1_04_Fort.cfg:198
 msgid "THAT is what happens to traitors!"
 msgstr ""
 
@@ -1879,9 +1879,9 @@ msgstr ""
 
 #. [message]: id=Lorenzon
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:559
+#: Bad_Moon_Rising/scenarios2/1_07_Visit.cfg:542
 #: Bad_Moon_Rising/scenarios2/1_03_Camp.cfg:434
 #: Bad_Moon_Rising/scenarios2/1_04_Fort.cfg:306
-#: Bad_Moon_Rising/scenarios2/1_07_Visit.cfg:542
 msgid "Arg! He's right, we're screwed!"
 msgstr ""
 
@@ -1995,13 +1995,13 @@ msgid ""
 "that's motivation! Go!"
 msgstr ""
 
-#. [unit]: type=Raenna, id=Raenna
-#. [unit]: type=Raenna2, id=Raenna
 #. [side]: type=Bad Raenna, id=Raenna
-#: Bad_Moon_Rising/scenarios2/1_02_Rescue.cfg:391
-#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:439
+#. [unit]: type=Raenna2, id=Raenna
+#. [unit]: type=Raenna, id=Raenna
 #: Bad_Moon_Rising/scenarios3/2_07_Salvation.cfg:231
 #: Bad_Moon_Rising/scenarios3/2_07_Volcano.cfg:303
+#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:439
+#: Bad_Moon_Rising/scenarios2/1_02_Rescue.cfg:391
 msgid "Raenna"
 msgstr ""
 
@@ -2109,13 +2109,13 @@ msgstr ""
 msgid "Another traitor bites the dust..."
 msgstr ""
 
+#. [message]: speaker=Garkah Teora
 #. [message]: speaker=Carusoe
 #. [message]: speaker=Bahren
-#. [message]: speaker=Garkah Teora
+#: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:345
 #: Bad_Moon_Rising/scenarios2/1_02_Rescue.cfg:700
 #: Bad_Moon_Rising/scenarios2/1_02_Rescue.cfg:707
 #: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:538
-#: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:345
 msgid "Ha!"
 msgstr ""
 
@@ -2130,16 +2130,16 @@ msgid "Just like smashing ticks and flies..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Bad_Moon_Rising/scenarios2/1_02_World.cfg:295
-#: Bad_Moon_Rising/scenarios2/1_04_World.cfg:285
-#: Bad_Moon_Rising/scenarios2/1_05_Defend.cfg:539
-#: Bad_Moon_Rising/scenarios2/1_07_World.cfg:318
-#: Bad_Moon_Rising/scenarios2/1_03_Camp.cfg:353
-#: Bad_Moon_Rising/scenarios2/1_06_Guardian.cfg:385
-#: Bad_Moon_Rising/scenarios2/1_06_World.cfg:322
-#: Bad_Moon_Rising/scenarios2/1_08_World.cfg:265
 #: Bad_Moon_Rising/scenarios2/1_02_Rescue.cfg:748
+#: Bad_Moon_Rising/scenarios2/1_05_Defend.cfg:539
+#: Bad_Moon_Rising/scenarios2/1_04_World.cfg:285
+#: Bad_Moon_Rising/scenarios2/1_03_Camp.cfg:353
+#: Bad_Moon_Rising/scenarios2/1_07_World.cfg:318
+#: Bad_Moon_Rising/scenarios2/1_06_Guardian.cfg:385
 #: Bad_Moon_Rising/scenarios2/1_04_Fort.cfg:211
+#: Bad_Moon_Rising/scenarios2/1_08_World.cfg:265
+#: Bad_Moon_Rising/scenarios2/1_06_World.cfg:322
+#: Bad_Moon_Rising/scenarios2/1_02_World.cfg:295
 msgid "We had just started..."
 msgstr ""
 
@@ -2201,24 +2201,24 @@ msgstr ""
 msgid "Arg! There are so many of them..."
 msgstr ""
 
-#. [scenario]: id=1_09_World
-#. [scenario]: id=1_02_World
-#. [scenario]: id=1_04_World
-#. [scenario]: id=1_07_World
-#. [scenario]: id=1_06_World
-#. [scenario]: id=1_08_World
-#. [scenario]: id=1_10_World
 #. [scenario]: id=2_03_World
 #. [scenario]: id=2_02_World
-#: Bad_Moon_Rising/scenarios2/1_09_World.cfg:7
-#: Bad_Moon_Rising/scenarios2/1_02_World.cfg:7
-#: Bad_Moon_Rising/scenarios2/1_04_World.cfg:7
-#: Bad_Moon_Rising/scenarios2/1_07_World.cfg:7
-#: Bad_Moon_Rising/scenarios2/1_06_World.cfg:7
-#: Bad_Moon_Rising/scenarios2/1_08_World.cfg:7
-#: Bad_Moon_Rising/scenarios2/1_10_World.cfg:7
+#. [scenario]: id=1_04_World
+#. [scenario]: id=1_10_World
+#. [scenario]: id=1_09_World
+#. [scenario]: id=1_07_World
+#. [scenario]: id=1_08_World
+#. [scenario]: id=1_06_World
+#. [scenario]: id=1_02_World
 #: Bad_Moon_Rising/scenarios3/2_03_World.cfg:7
 #: Bad_Moon_Rising/scenarios3/2_02_World.cfg:7
+#: Bad_Moon_Rising/scenarios2/1_04_World.cfg:7
+#: Bad_Moon_Rising/scenarios2/1_10_World.cfg:7
+#: Bad_Moon_Rising/scenarios2/1_09_World.cfg:7
+#: Bad_Moon_Rising/scenarios2/1_07_World.cfg:7
+#: Bad_Moon_Rising/scenarios2/1_08_World.cfg:7
+#: Bad_Moon_Rising/scenarios2/1_06_World.cfg:7
+#: Bad_Moon_Rising/scenarios2/1_02_World.cfg:7
 msgid "World Map - Ukiah"
 msgstr ""
 
@@ -2228,10 +2228,10 @@ msgid "Flee to the forest west of Gornath."
 msgstr ""
 
 #. [objective]: condition=lose
-#: Bad_Moon_Rising/scenarios2/1_02_World.cfg:39
 #: Bad_Moon_Rising/scenarios2/1_04_World.cfg:33
 #: Bad_Moon_Rising/scenarios2/1_07_World.cfg:35
 #: Bad_Moon_Rising/scenarios2/1_06_World.cfg:33
+#: Bad_Moon_Rising/scenarios2/1_02_World.cfg:39
 msgid "Get attacked by the Cavalry."
 msgstr ""
 
@@ -2306,8 +2306,8 @@ msgid "Maybe we can st-  What have we here?"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Bad_Moon_Rising/scenarios2/1_02_World.cfg:282
 #: Bad_Moon_Rising/scenarios2/1_04_World.cfg:272
+#: Bad_Moon_Rising/scenarios2/1_02_World.cfg:282
 msgid "Give my regards to Lieutenant Cantwell, traitor!"
 msgstr ""
 
@@ -2328,23 +2328,23 @@ msgid "Kill Enemy Leaders"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Bad_Moon_Rising/scenarios2/1_05_Defend.cfg:248
-#: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:57
-#: Bad_Moon_Rising/scenarios2/1_03_Camp.cfg:48
-#: Bad_Moon_Rising/scenarios2/1_06_Guardian.cfg:35
-#: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:31
-#: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:711
-#: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:130
-#: Bad_Moon_Rising/scenarios2/1_09_Ruin.cfg:61
-#: Bad_Moon_Rising/scenarios2/1_07_Visit.cfg:53
-#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:38
 #: Bad_Moon_Rising/scenarios3/2_07_Salvation.cfg:1306
-#: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:39
 #: Bad_Moon_Rising/scenarios3/2_07_Volcano.cfg:1161
 #: Bad_Moon_Rising/scenarios3/2_07_Volcano.cfg:1449
 #: Bad_Moon_Rising/scenarios3/2_07_Volcano.cfg:1534
 #: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:62
 #: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:38
+#: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:39
+#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:38
+#: Bad_Moon_Rising/scenarios2/1_09_Ruin.cfg:61
+#: Bad_Moon_Rising/scenarios2/1_05_Defend.cfg:248
+#: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:57
+#: Bad_Moon_Rising/scenarios2/1_07_Visit.cfg:53
+#: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:130
+#: Bad_Moon_Rising/scenarios2/1_03_Camp.cfg:48
+#: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:31
+#: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:711
+#: Bad_Moon_Rising/scenarios2/1_06_Guardian.cfg:35
 msgid "Death of Raenna"
 msgstr ""
 
@@ -2752,8 +2752,8 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Bad_Moon_Rising/scenarios2/1_05_Defend.cfg:566
-#: Bad_Moon_Rising/scenarios2/1_04_Fort.cfg:238
 #: Bad_Moon_Rising/scenarios2/1_07_Visit.cfg:511
+#: Bad_Moon_Rising/scenarios2/1_04_Fort.cfg:238
 msgid "Traitor..."
 msgstr ""
 
@@ -2855,8 +2855,8 @@ msgid "Here we are. This could get ugly..."
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios2/1_09_World.cfg:200
 #: Bad_Moon_Rising/scenarios2/1_04_World.cfg:207
+#: Bad_Moon_Rising/scenarios2/1_09_World.cfg:200
 #: Bad_Moon_Rising/scenarios2/1_08_World.cfg:199
 #: Bad_Moon_Rising/scenarios2/1_08_World.cfg:229
 msgid "Hello, everybody..."
@@ -2919,24 +2919,24 @@ msgid ""
 "gates of the capital."
 msgstr ""
 
-#. [side]: type=Huric, id=Huric
 #. [side]: type=Phantom King, id=Huric
+#. [side]: type=Huric, id=Huric
+#: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:270
+#: Bad_Moon_Rising/scenarios3/2_04_Legion.cfg:247
 #: Bad_Moon_Rising/scenarios2/1_05_Defend.cfg:71
 #: Bad_Moon_Rising/scenarios2/1_06_World.cfg:56
-#: Bad_Moon_Rising/scenarios3/2_04_Legion.cfg:247
-#: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:270
 msgid "Huric"
 msgstr ""
 
-#. [side]: type=Phantom Queen, id=Astreya_t
 #. [unit]: type=Phantom Queen, id=Astreya
 #. [side]: type=Phantom Queen, id=Astreya
+#. [side]: type=Phantom Queen, id=Astreya_t
+#: Bad_Moon_Rising/scenarios3/2_04_Legion.cfg:278
+#: Bad_Moon_Rising/scenarios2/1_09_Ruin.cfg:230
 #: Bad_Moon_Rising/scenarios2/1_05_Defend.cfg:92
 #: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:997
-#: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:188
 #: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:744
-#: Bad_Moon_Rising/scenarios2/1_09_Ruin.cfg:230
-#: Bad_Moon_Rising/scenarios3/2_04_Legion.cfg:278
+#: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:188
 msgid "Astreya"
 msgstr ""
 
@@ -3352,10 +3352,10 @@ msgstr ""
 msgid "Stand aside!"
 msgstr ""
 
-#. [message]: speaker=Mal Murmak
 #. [message]: speaker=Kel Odan
-#: Bad_Moon_Rising/scenarios2/1_06_Guardian.cfg:321
+#. [message]: speaker=Mal Murmak
 #: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:365
+#: Bad_Moon_Rising/scenarios2/1_06_Guardian.cfg:321
 msgid "Fools..."
 msgstr ""
 
@@ -3398,12 +3398,12 @@ msgstr ""
 msgid "Why are you-"
 msgstr ""
 
-#. [message]: speaker=Duval
-#. [message]: speaker=Lorenzon
 #. [message]: speaker=C_Belleros
-#: Bad_Moon_Rising/scenarios2/1_06_Guardian.cfg:417
-#: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:553
+#. [message]: speaker=Lorenzon
+#. [message]: speaker=Duval
 #: Bad_Moon_Rising/scenarios3/2_04_River.cfg:569
+#: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:553
+#: Bad_Moon_Rising/scenarios2/1_06_Guardian.cfg:417
 msgid "Silence!"
 msgstr ""
 
@@ -3536,38 +3536,38 @@ msgid "Huric Pays a Visit"
 msgstr ""
 
 #. [objective]: condition=win
-#: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:118
 #: Bad_Moon_Rising/scenarios2/1_07_Visit.cfg:45
+#: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:118
 msgid "Defeat Enemy Leaders"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:53
-#: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:27
-#: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:707
-#: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:126
-#: Bad_Moon_Rising/scenarios2/1_09_Ruin.cfg:57
-#: Bad_Moon_Rising/scenarios2/1_07_Visit.cfg:57
-#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:33
-#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:516
-#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:34
 #: Bad_Moon_Rising/scenarios3/2_07_Salvation.cfg:1027
+#: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:41
+#: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:656
+#: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:58
+#: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:31
+#: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:358
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:34
 #: Bad_Moon_Rising/scenarios3/2_04_Legion.cfg:35
 #: Bad_Moon_Rising/scenarios3/2_04_Legion.cfg:899
+#: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:35
+#: Bad_Moon_Rising/scenarios3/2_05_Shelter.cfg:28
+#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:34
 #: Bad_Moon_Rising/scenarios3/2_05_Blind.cfg:41
 #: Bad_Moon_Rising/scenarios3/2_06_Gate.cfg:36
 #: Bad_Moon_Rising/scenarios3/2_06_Gate.cfg:570
 #: Bad_Moon_Rising/scenarios3/2_06_Gate.cfg:585
-#: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:35
 #: Bad_Moon_Rising/scenarios3/2_04_River.cfg:38
 #: Bad_Moon_Rising/scenarios3/2_04_River.cfg:611
-#: Bad_Moon_Rising/scenarios3/2_05_Shelter.cfg:28
-#: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:31
-#: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:358
-#: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:58
-#: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:41
-#: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:656
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:34
+#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:33
+#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:516
+#: Bad_Moon_Rising/scenarios2/1_09_Ruin.cfg:57
+#: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:53
+#: Bad_Moon_Rising/scenarios2/1_07_Visit.cfg:57
+#: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:126
+#: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:27
+#: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:707
 msgid "Death of Belleros"
 msgstr ""
 
@@ -3576,32 +3576,32 @@ msgstr ""
 msgid "Enemy Reaches Supply Depot"
 msgstr ""
 
-#. [unit]: type=Ukian Officer, id=Belleros
-#. [side]: type=Ukian Commander, id=C_Belleros
 #. [side]: type=Ukian Subcommander, id=C_Belleros
-#. [unit]: type=Ukian Subcommander, id=Belleros
 #. [side]: type=Ukian Commander, id=Belleros
-#: Bad_Moon_Rising/scenarios2/1_07_Visit.cfg:84
-#: Bad_Moon_Rising/scenarios3/Shops.cfg:182
-#: Bad_Moon_Rising/scenarios3/Shops.cfg:264
-#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:90
-#: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:122
-#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:455
-#: Bad_Moon_Rising/scenarios3/2_07_Salvation.cfg:151
-#: Bad_Moon_Rising/scenarios3/2_04_West.cfg:51
-#: Bad_Moon_Rising/scenarios3/2_04_Legion.cfg:87
-#: Bad_Moon_Rising/scenarios3/2_05_Blind.cfg:88
-#: Bad_Moon_Rising/scenarios3/2_06_Gate.cfg:79
+#. [unit]: type=Ukian Subcommander, id=Belleros
+#. [side]: type=Ukian Commander, id=C_Belleros
+#. [unit]: type=Ukian Officer, id=Belleros
 #: Bad_Moon_Rising/scenarios3/2_05_Orcs.cfg:71
-#: Bad_Moon_Rising/scenarios3/2_04_River.cfg:114
-#: Bad_Moon_Rising/scenarios3/2_05_Shelter.cfg:116
+#: Bad_Moon_Rising/scenarios3/2_07_Salvation.cfg:151
+#: Bad_Moon_Rising/scenarios3/2_07_Volcano.cfg:236
 #: Bad_Moon_Rising/scenarios3/2_05_World.cfg:68
+#: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:248
 #: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:91
+#: Bad_Moon_Rising/scenarios3/2_04_Legion.cfg:87
+#: Bad_Moon_Rising/scenarios3/2_05_Shelter.cfg:116
+#: Bad_Moon_Rising/scenarios3/2_04_World.cfg:50
+#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:455
+#: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:122
+#: Bad_Moon_Rising/scenarios3/2_05_Blind.cfg:88
 #: Bad_Moon_Rising/scenarios3/2_05_West.cfg:113
 #: Bad_Moon_Rising/scenarios3/2_05_West.cfg:357
-#: Bad_Moon_Rising/scenarios3/2_07_Volcano.cfg:236
-#: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:248
-#: Bad_Moon_Rising/scenarios3/2_04_World.cfg:50
+#: Bad_Moon_Rising/scenarios3/2_06_Gate.cfg:79
+#: Bad_Moon_Rising/scenarios3/2_04_River.cfg:114
+#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:90
+#: Bad_Moon_Rising/scenarios3/Shops.cfg:182
+#: Bad_Moon_Rising/scenarios3/Shops.cfg:264
+#: Bad_Moon_Rising/scenarios3/2_04_West.cfg:51
+#: Bad_Moon_Rising/scenarios2/1_07_Visit.cfg:84
 msgid "Belleros"
 msgstr ""
 
@@ -4199,14 +4199,14 @@ msgstr ""
 #. [time]: id=thepit
 #. [time]: id=thepit_illum
 #. [scenario]: id=1_09_Pit
-#: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:4
-#: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:13
-#: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:31
-#: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:16
-#: Bad_Moon_Rising/scenarios3/2_04_Legion.cfg:17
 #: Bad_Moon_Rising/scenarios3/2_07_Volcano.cfg:25
 #: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:16
 #: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:32
+#: Bad_Moon_Rising/scenarios3/2_04_Legion.cfg:17
+#: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:16
+#: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:4
+#: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:13
+#: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:31
 msgid "The Pit"
 msgstr ""
 
@@ -4216,20 +4216,24 @@ msgid "Find the imposter"
 msgstr ""
 
 #. [side]: type=Orcish Warlord, id=Tahn Gareth
-#: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:138
 #: Bad_Moon_Rising/scenarios2/1_09_Ruin.cfg:261
+#: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:138
 msgid "Tahn Gareth"
 msgstr ""
 
+#. [unit]: type=Elvish Marksman, id=Guard1
+#. [unit]: type=Elvish Hero, id=Guard2
+#. [unit]: type=Elvish Hero, id=Guard4
+#. [unit]: type=Elvish Marksman, id=Guard5
 #. [unit]: type=Primevalist Fighter, id=Guard1
 #. [unit]: type=Primevalist Shield, id=Guard2
 #. [unit]: type=Primevalist Fanatic, id=Guard3
 #. [unit]: type=Primevalist Fighter, id=Guard4
-#. [unit]: type=Elvish Marksman, id=Guard1
-#. [unit]: type=Elvish Hero, id=Guard2
 #. [unit]: type=Elvish Marksman, id=Guard3
-#. [unit]: type=Elvish Hero, id=Guard4
-#. [unit]: type=Elvish Marksman, id=Guard5
+#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:269
+#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:276
+#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:316
+#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:323
 #: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:251
 #: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:258
 #: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:265
@@ -4238,10 +4242,6 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:158
 #: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:165
 #: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:172
-#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:269
-#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:276
-#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:316
-#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:323
 msgid "Guard"
 msgstr ""
 
@@ -4818,46 +4818,46 @@ msgstr ""
 msgid "Come any closer and I will put an arrow through your neck!"
 msgstr ""
 
-#. [race]: id=bmr_ghost
-#. [unit_type]: id=BMR_Ghost_Master_Bowman, race=bmr_ghost
-#. [unit_type]: id=BMR_Ghost_Outlaw, race=bmr_ghost
-#. [unit_type]: id=BMR_Ghost_Steelclad, race=bmr_ghost
-#. [unit_type]: id=BMR_Ghost_Dwarvish_Lord, race=bmr_ghost
-#. [unit_type]: id=BMR_Ghost_Fugitive, race=bmr_ghost
-#. [unit_type]: id=BMR_Ghost_Longbowman, race=bmr_ghost
-#. [unit_type]: id=BMR_Ghost_Dwarvish_Fighter, race=bmr_ghost
-#. [unit_type]: id=BMR_Ghost_Bowman, race=bmr_ghost
-#. [unit_type]: id=BMR_Ghost_Footpad, race=bmr_ghost
-#. [unit_type]: id=Phantom King, race=despair
 #. [message]: speaker=Carusoe
+#. [message]: speaker=Raenna
+#. [message]: speaker=Belleros
+#. [message]: speaker=Falka Teora
 #. [message]: speaker=C_Belleros
 #. [message]: speaker=Hrala Gareth
-#. [message]: speaker=Raenna
-#. [message]: speaker=Falka Teora
-#. [message]: speaker=Belleros
-#: Bad_Moon_Rising/units/ghosts_race.cfg:10
-#: Bad_Moon_Rising/units/ghosts/Ghost_Master_Bowman.cfg:21
-#: Bad_Moon_Rising/units/ghosts/Ghost_Outlaw.cfg:19
-#: Bad_Moon_Rising/units/ghosts/Ghost_Steelclad.cfg:20
-#: Bad_Moon_Rising/units/ghosts/Ghost_Lord.cfg:20
-#: Bad_Moon_Rising/units/ghosts/Ghost_Fugitive.cfg:21
-#: Bad_Moon_Rising/units/ghosts/Ghost_Longbowman.cfg:21
-#: Bad_Moon_Rising/units/ghosts/Ghost_Fighter.cfg:20
-#: Bad_Moon_Rising/units/ghosts/Ghost_Bowman.cfg:22
-#: Bad_Moon_Rising/units/ghosts/Ghost_Footpad.cfg:21
-#: Bad_Moon_Rising/units/Huric-phantom.cfg:79
-#: Bad_Moon_Rising/scenarios2/1_09_Ruin.cfg:514
+#. [race]: id=bmr_ghost
+#. [unit_type]: id=Phantom King, race=despair
+#. [unit_type]: id=BMR_Ghost_Fugitive, race=bmr_ghost
+#. [unit_type]: id=BMR_Ghost_Footpad, race=bmr_ghost
+#. [unit_type]: id=BMR_Ghost_Longbowman, race=bmr_ghost
+#. [unit_type]: id=BMR_Ghost_Bowman, race=bmr_ghost
+#. [unit_type]: id=BMR_Ghost_Steelclad, race=bmr_ghost
+#. [unit_type]: id=BMR_Ghost_Dwarvish_Fighter, race=bmr_ghost
+#. [unit_type]: id=BMR_Ghost_Dwarvish_Lord, race=bmr_ghost
+#. [unit_type]: id=BMR_Ghost_Outlaw, race=bmr_ghost
+#. [unit_type]: id=BMR_Ghost_Master_Bowman, race=bmr_ghost
 #: Bad_Moon_Rising/utils/skirmish.cfg:139
 #: Bad_Moon_Rising/utils/skirmish.cfg:184
 #: Bad_Moon_Rising/utils/skirmish.cfg:229
-#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:435
-#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:439
-#: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:439
 #: Bad_Moon_Rising/scenarios3/2_07_Salvation.cfg:781
-#: Bad_Moon_Rising/scenarios3/2_04_Legion.cfg:666
-#: Bad_Moon_Rising/scenarios3/2_05_Blind.cfg:658
 #: Bad_Moon_Rising/scenarios3/2_07_Volcano.cfg:1009
 #: Bad_Moon_Rising/scenarios3/2_07_Volcano.cfg:1285
+#: Bad_Moon_Rising/scenarios3/2_04_Legion.cfg:666
+#: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:439
+#: Bad_Moon_Rising/scenarios3/2_05_Blind.cfg:658
+#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:435
+#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:439
+#: Bad_Moon_Rising/units/ghosts_race.cfg:10
+#: Bad_Moon_Rising/units/Huric-phantom.cfg:79
+#: Bad_Moon_Rising/units/ghosts/Ghost_Fugitive.cfg:21
+#: Bad_Moon_Rising/units/ghosts/Ghost_Footpad.cfg:21
+#: Bad_Moon_Rising/units/ghosts/Ghost_Longbowman.cfg:21
+#: Bad_Moon_Rising/units/ghosts/Ghost_Bowman.cfg:22
+#: Bad_Moon_Rising/units/ghosts/Ghost_Steelclad.cfg:20
+#: Bad_Moon_Rising/units/ghosts/Ghost_Fighter.cfg:20
+#: Bad_Moon_Rising/units/ghosts/Ghost_Lord.cfg:20
+#: Bad_Moon_Rising/units/ghosts/Ghost_Outlaw.cfg:19
+#: Bad_Moon_Rising/units/ghosts/Ghost_Master_Bowman.cfg:21
+#: Bad_Moon_Rising/scenarios2/1_09_Ruin.cfg:514
 msgid "..."
 msgstr ""
 
@@ -5039,18 +5039,18 @@ msgstr ""
 msgid "Ha! Die, human scum!"
 msgstr ""
 
-#. [scenario]: id=1_10_Epilogue
 #. [scenario]: id=2_07_Epilogue
-#: Bad_Moon_Rising/scenarios2/1_10_Epilogue.cfg:4
+#. [scenario]: id=1_10_Epilogue
 #: Bad_Moon_Rising/scenarios3/2_07_Epilog.cfg:4
+#: Bad_Moon_Rising/scenarios2/1_10_Epilogue.cfg:4
 msgid "Epilogue"
 msgstr ""
 
-#. [unit]: type=Elvish Marshal, id=Valeron
 #. [side]: type=Elvish Marshal, id=Valeron
+#. [unit]: type=Elvish Marshal, id=Valeron
+#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:236
 #: Bad_Moon_Rising/scenarios2/1_10_Epilogue.cfg:113
 #: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:134
-#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:236
 msgid "Valeron"
 msgstr ""
 
@@ -5143,8 +5143,8 @@ msgid "Stray into the Southern Forest"
 msgstr ""
 
 #. [side]: type=Orcish Sovereign, id=Tank Skoro
-#: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:64
 #: Bad_Moon_Rising/scenarios2/1_10_World.cfg:60
+#: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:64
 msgid "Tank Skoro"
 msgstr ""
 
@@ -5593,10 +5593,10 @@ msgid "Flee to the Southern Pass."
 msgstr ""
 
 #. [objective]: condition=lose
-#: Bad_Moon_Rising/scenarios2/1_10_World.cfg:36
 #: Bad_Moon_Rising/scenarios3/2_03_World.cfg:33
-#: Bad_Moon_Rising/scenarios3/2_02_World.cfg:32
 #: Bad_Moon_Rising/scenarios3/2_04_World.cfg:33
+#: Bad_Moon_Rising/scenarios3/2_02_World.cfg:32
+#: Bad_Moon_Rising/scenarios2/1_10_World.cfg:36
 msgid "Get attacked by the orcish horde (Orcish Warrior)."
 msgstr ""
 
@@ -5608,18 +5608,18 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios2/1_10_World.cfg:147
 #: Bad_Moon_Rising/scenarios3/2_03_World.cfg:172
 #: Bad_Moon_Rising/scenarios3/2_02_World.cfg:184
+#: Bad_Moon_Rising/scenarios2/1_10_World.cfg:147
 msgid ""
 "The terrain is rough over there, we would be better off keeping near the "
 "road."
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios2/1_10_World.cfg:160
 #: Bad_Moon_Rising/scenarios3/2_03_World.cfg:185
 #: Bad_Moon_Rising/scenarios3/2_02_World.cfg:197
+#: Bad_Moon_Rising/scenarios2/1_10_World.cfg:160
 msgid "This is not helping, we should head south."
 msgstr ""
 
@@ -5635,11 +5635,11 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Bad_Moon_Rising/scenarios2/1_10_World.cfg:222
 #: Bad_Moon_Rising/scenarios3/2_05_World.cfg:340
 #: Bad_Moon_Rising/scenarios3/2_03_World.cfg:337
-#: Bad_Moon_Rising/scenarios3/2_02_World.cfg:292
 #: Bad_Moon_Rising/scenarios3/2_04_World.cfg:477
+#: Bad_Moon_Rising/scenarios3/2_02_World.cfg:292
+#: Bad_Moon_Rising/scenarios2/1_10_World.cfg:222
 msgid "Ha Ha! Die, little worms."
 msgstr ""
 
@@ -5649,55 +5649,55 @@ msgid "North Star Trading Post"
 msgstr ""
 
 #. [objective]: condition=win
-#: Bad_Moon_Rising/scenarios2/Shops.cfg:49
-#: Bad_Moon_Rising/scenarios2/Shops.cfg:131
-#: Bad_Moon_Rising/scenarios2/Shops.cfg:213
-#: Bad_Moon_Rising/scenarios2/Shops.cfg:295
 #: Bad_Moon_Rising/utils/1_worldmap.cfg:142
 #: Bad_Moon_Rising/scenarios3/Shops.cfg:49
 #: Bad_Moon_Rising/scenarios3/Shops.cfg:131
 #: Bad_Moon_Rising/scenarios3/Shops.cfg:213
 #: Bad_Moon_Rising/scenarios3/Shops.cfg:295
+#: Bad_Moon_Rising/scenarios2/Shops.cfg:49
+#: Bad_Moon_Rising/scenarios2/Shops.cfg:131
+#: Bad_Moon_Rising/scenarios2/Shops.cfg:213
+#: Bad_Moon_Rising/scenarios2/Shops.cfg:295
 msgid "End of Turn"
 msgstr ""
 
 #. [objectives]
-#: Bad_Moon_Rising/scenarios2/Shops.cfg:51
-#: Bad_Moon_Rising/scenarios2/Shops.cfg:133
-#: Bad_Moon_Rising/scenarios2/Shops.cfg:215
-#: Bad_Moon_Rising/scenarios2/Shops.cfg:297
 #: Bad_Moon_Rising/scenarios3/Shops.cfg:51
 #: Bad_Moon_Rising/scenarios3/Shops.cfg:133
 #: Bad_Moon_Rising/scenarios3/Shops.cfg:215
 #: Bad_Moon_Rising/scenarios3/Shops.cfg:297
+#: Bad_Moon_Rising/scenarios2/Shops.cfg:51
+#: Bad_Moon_Rising/scenarios2/Shops.cfg:133
+#: Bad_Moon_Rising/scenarios2/Shops.cfg:215
+#: Bad_Moon_Rising/scenarios2/Shops.cfg:297
 msgid "Recruit or recall a unit to take the purchases, end turn when done."
 msgstr ""
 
 #. [message]: speaker=Clerk
-#: Bad_Moon_Rising/scenarios2/Shops.cfg:67
-#: Bad_Moon_Rising/scenarios2/Shops.cfg:149
 #: Bad_Moon_Rising/scenarios3/Shops.cfg:67
 #: Bad_Moon_Rising/scenarios3/Shops.cfg:149
+#: Bad_Moon_Rising/scenarios2/Shops.cfg:67
+#: Bad_Moon_Rising/scenarios2/Shops.cfg:149
 msgid "Howdy! Don't get many customers these days. See anything?"
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios2/Shops.cfg:72
-#: Bad_Moon_Rising/scenarios2/Shops.cfg:154
 #: Bad_Moon_Rising/scenarios3/Shops.cfg:72
 #: Bad_Moon_Rising/scenarios3/Shops.cfg:154
+#: Bad_Moon_Rising/scenarios2/Shops.cfg:72
+#: Bad_Moon_Rising/scenarios2/Shops.cfg:154
 msgid "Maybe... Let's see if anyone needs anything."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Bad_Moon_Rising/scenarios2/Shops.cfg:76
-#: Bad_Moon_Rising/scenarios2/Shops.cfg:158
-#: Bad_Moon_Rising/scenarios2/Shops.cfg:240
-#: Bad_Moon_Rising/scenarios2/Shops.cfg:322
 #: Bad_Moon_Rising/scenarios3/Shops.cfg:76
 #: Bad_Moon_Rising/scenarios3/Shops.cfg:158
 #: Bad_Moon_Rising/scenarios3/Shops.cfg:240
 #: Bad_Moon_Rising/scenarios3/Shops.cfg:322
+#: Bad_Moon_Rising/scenarios2/Shops.cfg:76
+#: Bad_Moon_Rising/scenarios2/Shops.cfg:158
+#: Bad_Moon_Rising/scenarios2/Shops.cfg:240
+#: Bad_Moon_Rising/scenarios2/Shops.cfg:322
 msgid ""
 "Recruit or recall a unit to get the equipment upgrade. Note: You cannot "
 "stack equipment."
@@ -5732,9 +5732,9 @@ msgid "Big Aerwan Steel Goods"
 msgstr ""
 
 #. [message]: speaker=Clerk
-#: Bad_Moon_Rising/scenarios2/Shops.cfg:313
 #: Bad_Moon_Rising/scenarios3/Shops.cfg:231
 #: Bad_Moon_Rising/scenarios3/Shops.cfg:313
+#: Bad_Moon_Rising/scenarios2/Shops.cfg:313
 msgid "-(cough!)- Make it quick, this isn't friendly territory..."
 msgstr ""
 
@@ -5748,31 +5748,31 @@ msgstr ""
 #. [message]: speaker=Raenna
 #. [message]: speaker=Grat Gareth
 #. [message]: speaker=Sidekick
-#: Bad_Moon_Rising/scenarios2/SkirmishCalls_II.cfg:348
-#: Bad_Moon_Rising/scenarios2/SkirmishCalls_II.cfg:467
 #: Bad_Moon_Rising/scenarios3/SkirmishCalls_III.cfg:127
 #: Bad_Moon_Rising/scenarios3/SkirmishCalls_III.cfg:283
 #: Bad_Moon_Rising/scenarios3/SkirmishCalls_III.cfg:432
 #: Bad_Moon_Rising/scenarios3/SkirmishCalls_III.cfg:534
+#: Bad_Moon_Rising/scenarios2/SkirmishCalls_II.cfg:348
+#: Bad_Moon_Rising/scenarios2/SkirmishCalls_II.cfg:467
 msgid "This thick fog blots out all light from the sky."
 msgstr ""
 
 #. [message]: speaker=Lorenzon
 #. [message]: speaker=C_Belleros
-#: Bad_Moon_Rising/scenarios2/SkirmishCalls_II.cfg:352
 #: Bad_Moon_Rising/scenarios3/SkirmishCalls_III.cfg:131
 #: Bad_Moon_Rising/scenarios3/SkirmishCalls_III.cfg:287
 #: Bad_Moon_Rising/scenarios3/SkirmishCalls_III.cfg:436
 #: Bad_Moon_Rising/scenarios3/SkirmishCalls_III.cfg:538
+#: Bad_Moon_Rising/scenarios2/SkirmishCalls_II.cfg:352
 msgid "I have a bad feeling about this."
 msgstr ""
 
 #. [message]: speaker=Leader
-#: Bad_Moon_Rising/scenarios2/SkirmishCalls_II.cfg:356
 #: Bad_Moon_Rising/scenarios3/SkirmishCalls_III.cfg:135
 #: Bad_Moon_Rising/scenarios3/SkirmishCalls_III.cfg:291
 #: Bad_Moon_Rising/scenarios3/SkirmishCalls_III.cfg:440
 #: Bad_Moon_Rising/scenarios3/SkirmishCalls_III.cfg:542
+#: Bad_Moon_Rising/scenarios2/SkirmishCalls_II.cfg:356
 msgid "As well you should..."
 msgstr ""
 
@@ -5802,31 +5802,31 @@ msgid "Move heros to the north edge of map"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:30
+#: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:54
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:30
 #: Bad_Moon_Rising/scenarios3/2_04_Legion.cfg:39
 #: Bad_Moon_Rising/scenarios3/2_04_Legion.cfg:903
 #: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:31
-#: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:54
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:30
+#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:30
 msgid "Death of Carghanna"
 msgstr ""
 
-#. [message]: speaker=narrator
-#. [unit]: type=Ukian Witch, id=Carghanna
 #. [side]: type=Echidna, id=Echidna
+#. [message]: speaker=narrator
 #. [unit]: type=Ukian Sick, id=Carghanna
-#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:395
-#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:162
+#. [unit]: type=Ukian Witch, id=Carghanna
 #: Bad_Moon_Rising/scenarios3/2_07_Salvation.cfg:279
 #: Bad_Moon_Rising/scenarios3/2_07_Salvation.cfg:529
 #: Bad_Moon_Rising/scenarios3/2_07_Salvation.cfg:942
 #: Bad_Moon_Rising/scenarios3/2_07_Salvation.cfg:1136
+#: Bad_Moon_Rising/scenarios3/2_07_Volcano.cfg:325
+#: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:111
+#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:162
 #: Bad_Moon_Rising/scenarios3/2_05_Blind.cfg:222
 #: Bad_Moon_Rising/scenarios3/2_05_Blind.cfg:533
 #: Bad_Moon_Rising/scenarios3/2_04_River.cfg:582
 #: Bad_Moon_Rising/scenarios3/2_04_River.cfg:596
-#: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:111
-#: Bad_Moon_Rising/scenarios3/2_07_Volcano.cfg:325
+#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:395
 msgid "Carghanna"
 msgstr ""
 
@@ -6010,38 +6010,38 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=unit
-#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:819
-#: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:329
 #: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:407
 #: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:517
+#: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:329
+#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:819
 msgid "Carry on..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:695
+#: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:1363
+#: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:420
+#: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:408
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:530
+#: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:342
 #: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:832
 #: Bad_Moon_Rising/scenarios3/2_06_Gate.cfg:762
-#: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:342
-#: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:408
-#: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:420
-#: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:1363
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:530
+#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:695
 msgid "Uhghh..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:845
-#: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:355
 #: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:433
 #: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:543
+#: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:355
+#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:845
 msgid "Ach!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:858
-#: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:368
 #: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:446
 #: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:556
+#: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:368
+#: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:858
 msgid "Ouch!"
 msgstr ""
 
@@ -6268,8 +6268,8 @@ msgid "It seems we have some fundraising to do..."
 msgstr ""
 
 #. [message]: id=Lorenzon
-#: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:441
 #: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:666
+#: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:441
 msgid "More orcs, and they carry the Skoro Banner..."
 msgstr ""
 
@@ -6279,10 +6279,10 @@ msgid "Head back to the Copper Mine"
 msgstr ""
 
 #. [side]: type=Orcish Sovereign, id=Skalla Teora
-#: Bad_Moon_Rising/scenarios3/2_06_Gate.cfg:106
 #: Bad_Moon_Rising/scenarios3/2_03_World.cfg:65
-#: Bad_Moon_Rising/scenarios3/2_02_World.cfg:59
 #: Bad_Moon_Rising/scenarios3/2_04_World.cfg:65
+#: Bad_Moon_Rising/scenarios3/2_02_World.cfg:59
+#: Bad_Moon_Rising/scenarios3/2_06_Gate.cfg:106
 msgid "Skalla Teora"
 msgstr ""
 
@@ -6360,12 +6360,12 @@ msgstr ""
 msgid "Lieutenant Branson"
 msgstr ""
 
-#. [unit]: type=Orcish Warrior, id=Grat Gareth
 #. [side]: type=Orcish Warrior, id=Grat Gareth
-#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:109
+#. [unit]: type=Orcish Warrior, id=Grat Gareth
 #: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:200
 #: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:267
 #: Bad_Moon_Rising/scenarios3/2_04_World.cfg:116
+#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:109
 msgid "Grat Gareth"
 msgstr ""
 
@@ -6528,9 +6528,9 @@ msgid "What will... happen... ... We've failed..."
 msgstr ""
 
 #. [unit]: type=Hrala, id=Hrala Gareth
-#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:123
 #: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:613
 #: Bad_Moon_Rising/scenarios3/2_04_World.cfg:131
+#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:123
 msgid "Hrala Gareth"
 msgstr ""
 
@@ -6599,28 +6599,28 @@ msgstr ""
 
 #. [side]: type=Primeval Ares, id=Ares
 #. [side]: type=Primeval Ares, id=t_Ares
-#: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:144
 #: Bad_Moon_Rising/scenarios3/2_07_Salvation.cfg:349
-#: Bad_Moon_Rising/scenarios3/2_04_Legion.cfg:109
-#: Bad_Moon_Rising/scenarios3/2_05_World.cfg:84
-#: Bad_Moon_Rising/scenarios3/2_05_West.cfg:134
 #: Bad_Moon_Rising/scenarios3/2_07_Volcano.cfg:396
+#: Bad_Moon_Rising/scenarios3/2_05_World.cfg:84
+#: Bad_Moon_Rising/scenarios3/2_04_Legion.cfg:109
+#: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:144
+#: Bad_Moon_Rising/scenarios3/2_05_West.cfg:134
 msgid "Ares"
 msgstr ""
 
-#. [side]: type=Primeval Nemesis, id=Nemesis
 #. [unit]: type=Primeval Nemesis, id=Nemesis
-#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:246
-#: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:164
-#: Bad_Moon_Rising/scenarios3/2_04_Legion.cfg:153
+#. [side]: type=Primeval Nemesis, id=Nemesis
 #: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:508
+#: Bad_Moon_Rising/scenarios3/2_04_Legion.cfg:153
+#: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:164
+#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:246
 msgid "Nemesis"
 msgstr ""
 
-#. [side]: type=Orcish Warlord, id=Orga Teora
 #. [side]: type=Orcish Warrior, id=Orga Teora
-#: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:182
+#. [side]: type=Orcish Warlord, id=Orga Teora
 #: Bad_Moon_Rising/scenarios3/2_04_Legion.cfg:163
+#: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:182
 msgid "Orga Teora"
 msgstr ""
 
@@ -6688,10 +6688,10 @@ msgstr ""
 #. [message]: speaker=unit
 #. [message]: speaker=Cogue
 #: Bad_Moon_Rising/utils/items.cfg:67
-#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:644
 #: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:330
 #: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:385
 #: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:589
+#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:644
 msgid "Woof!"
 msgstr ""
 
@@ -6755,7 +6755,7 @@ msgid "Sir! Are you all right?"
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:550
+#: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:549
 msgid ""
 "Uhhhg... I've been better... I may have broke my spine -(grunt)- I can't "
 "move my legs... Scarrion ran off into the darkness, stop him!\n"
@@ -7191,12 +7191,12 @@ msgid "Move Carghanna to the Gareth Banner Camp"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:41
-#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:524
-#: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:35
-#: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:362
 #: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:49
 #: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:664
+#: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:35
+#: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:362
+#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:41
+#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:524
 msgid "Death of Grat Gareth"
 msgstr ""
 
@@ -7354,11 +7354,11 @@ msgid "We can move the wounded if we don't have to fight at the same time."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:708
-#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:721
-#: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:421
 #: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:1376
 #: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:1389
+#: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:421
+#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:708
+#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:721
 msgid "Grah..."
 msgstr ""
 
@@ -7672,10 +7672,10 @@ msgid "Explore the Castle"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:37
-#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:520
 #: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:45
 #: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:660
+#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:37
+#: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:520
 msgid "Death of Hrala Gareth"
 msgstr ""
 
@@ -8207,12 +8207,12 @@ msgstr ""
 msgid "Exit the caverns."
 msgstr ""
 
-#. [scenario]: id=2_04_West
 #. [scenario]: id=2_05_West
 #. [scenario]: id=2_05_West2
-#: Bad_Moon_Rising/scenarios3/2_04_West.cfg:4
+#. [scenario]: id=2_04_West
 #: Bad_Moon_Rising/scenarios3/2_05_West.cfg:4
 #: Bad_Moon_Rising/scenarios3/2_05_West.cfg:301
+#: Bad_Moon_Rising/scenarios3/2_04_West.cfg:4
 msgid "West"
 msgstr ""
 
@@ -8369,11 +8369,11 @@ msgid ""
 "and untouched by the seasons."
 msgstr ""
 
-#. [unit_type]: id=Hrala, race=orc
 #. [message]: speaker=narrator
-#: Bad_Moon_Rising/units/Hrala.cfg:4
+#. [unit_type]: id=Hrala, race=orc
 #: Bad_Moon_Rising/scenarios3/2_04_World.cfg:357
 #: Bad_Moon_Rising/scenarios3/2_04_World.cfg:397
+#: Bad_Moon_Rising/units/Hrala.cfg:4
 msgid "Hrala"
 msgstr ""
 
@@ -8626,7 +8626,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=C_Belleros
-#: Bad_Moon_Rising/scenarios3/2_05_Blind.cfg:590
+#: Bad_Moon_Rising/scenarios3/2_05_Blind.cfg:589
 msgid ""
 "<b>Enough!</b>\n"
 "Raenna, I do not wish to harm you either, but it is <i>you</i> who has been "
@@ -8690,8 +8690,8 @@ msgid "This is not over, you dumb bastard..."
 msgstr ""
 
 #. [message]: speaker=C_Belleros
-#: Bad_Moon_Rising/scenarios3/2_05_Blind.cfg:747
 #: Bad_Moon_Rising/scenarios3/2_05_Shelter.cfg:599
+#: Bad_Moon_Rising/scenarios3/2_05_Blind.cfg:747
 msgid "Ack!"
 msgstr ""
 
@@ -9186,7 +9186,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Bad_Moon_Rising/scenarios3/2_05_West.cfg:32
+#: Bad_Moon_Rising/scenarios3/2_05_West.cfg:29
 msgid ""
 "'Welcome back, I worried you would not wake.'\n"
 "'Where am I?  Who are you?'\n"
@@ -9196,7 +9196,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Bad_Moon_Rising/scenarios3/2_05_West.cfg:38
+#: Bad_Moon_Rising/scenarios3/2_05_West.cfg:36
 msgid ""
 "'Your friends have wasted no time in bringing disaster upon us all. Soon "
 "after they abandoned you in the cave, they rushed to prostrate themselves "
@@ -9242,8 +9242,8 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Bad_Moon_Rising/scenarios3/2_05_West.cfg:61
-#: Bad_Moon_Rising/scenarios3/2_05_West.cfg:327
+#: Bad_Moon_Rising/scenarios3/2_05_West.cfg:58
+#: Bad_Moon_Rising/scenarios3/2_05_West.cfg:324
 msgid ""
 "That night, Belleros woke to find his tent filled with a faint green light. "
 "A familiar voice spoke into his ear.\n"
@@ -9257,8 +9257,8 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Bad_Moon_Rising/scenarios3/2_05_West.cfg:67
-#: Bad_Moon_Rising/scenarios3/2_05_West.cfg:333
+#: Bad_Moon_Rising/scenarios3/2_05_West.cfg:65
+#: Bad_Moon_Rising/scenarios3/2_05_West.cfg:331
 msgid ""
 "'You must reach the peak of the volcano before the demons. If they gain "
 "control of it, they will use it to destroy all life across the land.'\n"
@@ -9711,10 +9711,10 @@ msgstr ""
 msgid "Belleros arrives before Raenna reaches the keep"
 msgstr ""
 
-#. [unit_type]: id=Chimera, race=khthon
 #. [unit]: type=Chimera, id=Chimera
-#: Bad_Moon_Rising/units/Chimera.cfg:5
+#. [unit_type]: id=Chimera, race=khthon
 #: Bad_Moon_Rising/scenarios3/2_07_Salvation.cfg:325
+#: Bad_Moon_Rising/units/Chimera.cfg:5
 msgid "Chimera"
 msgstr ""
 
@@ -10657,15 +10657,15 @@ msgstr ""
 msgid "hatred"
 msgstr ""
 
-#. [advancement]: id=amla_raenna_sword
 #. [advancement]: id=amla_carusoe_sword
-#: Bad_Moon_Rising/units/Raenna.cfg:42 Bad_Moon_Rising/units/Carusoe.cfg:51
+#. [advancement]: id=amla_raenna_sword
+#: Bad_Moon_Rising/units/Carusoe.cfg:51 Bad_Moon_Rising/units/Raenna.cfg:42
 msgid "Max HP bonus +2, Melee Damage +1, Max Exp penalty 30%"
 msgstr ""
 
-#. [advancement]: id=amla_raenna_fast
 #. [advancement]: id=amla_carusoe_fast
-#: Bad_Moon_Rising/units/Raenna.cfg:74 Bad_Moon_Rising/units/Carusoe.cfg:83
+#. [advancement]: id=amla_raenna_fast
+#: Bad_Moon_Rising/units/Carusoe.cfg:83 Bad_Moon_Rising/units/Raenna.cfg:74
 msgid "Max HP bonus +2, Movement +1, Max Exp penalty 30%"
 msgstr ""
 
@@ -10674,17 +10674,17 @@ msgstr ""
 msgid "Max HP bonus +2, Javelin Damage +2, Max Exp penalty 30%"
 msgstr ""
 
-#. [advancement]: id=amla_raenna_marksman
 #. [advancement]: id=amla_carusoe_marksman
-#: Bad_Moon_Rising/units/Raenna.cfg:132 Bad_Moon_Rising/units/Carusoe.cfg:141
+#. [advancement]: id=amla_raenna_marksman
+#: Bad_Moon_Rising/units/Carusoe.cfg:141 Bad_Moon_Rising/units/Raenna.cfg:132
 msgid "Max HP bonus +2, Marksman Ability, Max Exp penalty 30%"
 msgstr ""
 
-#. [advancement]: id=amla_raenna_nightstalk
 #. [advancement]: id=amla_carusoe_nightstalk
-#: Bad_Moon_Rising/units/Raenna.cfg:164
-#: Bad_Moon_Rising/units/Raenna-Bad.cfg:52
+#. [advancement]: id=amla_raenna_nightstalk
 #: Bad_Moon_Rising/units/Carusoe.cfg:173
+#: Bad_Moon_Rising/units/Raenna-Bad.cfg:52
+#: Bad_Moon_Rising/units/Raenna.cfg:164
 msgid "Max HP bonus +2, Nightstalk Ability, Max Exp penalty 30%"
 msgstr ""
 
@@ -10698,12 +10698,12 @@ msgid ""
 msgstr ""
 
 #. [regenerate]: id=immortal
-#: Bad_Moon_Rising/units/Echidna.cfg:48 Bad_Moon_Rising/units/Chimera.cfg:35
+#: Bad_Moon_Rising/units/Chimera.cfg:35 Bad_Moon_Rising/units/Echidna.cfg:48
 msgid "immortal"
 msgstr ""
 
 #. [regenerate]: id=immortal
-#: Bad_Moon_Rising/units/Echidna.cfg:50 Bad_Moon_Rising/units/Chimera.cfg:37
+#: Bad_Moon_Rising/units/Chimera.cfg:36 Bad_Moon_Rising/units/Echidna.cfg:49
 msgid ""
 "immortal:\n"
 "This unit heals 99 HP per turn.  If poisoned, it will remove the poison."
@@ -10752,10 +10752,10 @@ msgid ""
 "thoughts and weaknesses of the more modern races."
 msgstr ""
 
-#. [attack]: type=fire
 #. [attack]: type=cold
-#: Bad_Moon_Rising/units/Echidna.cfg:67
+#. [attack]: type=fire
 #: Bad_Moon_Rising/units/Primeval_Nemesis.cfg:68
+#: Bad_Moon_Rising/units/Echidna.cfg:67
 msgid "psyche"
 msgstr ""
 
@@ -10782,7 +10782,7 @@ msgid "Max HP bonus +2, Max XP +10%, Damage +1"
 msgstr ""
 
 #. [unit_type]: id=Hrala, race=orc
-#: Bad_Moon_Rising/units/Hrala.cfg:43
+#: Bad_Moon_Rising/units/Hrala.cfg:41
 msgid ""
 "The warlike culture and high fertility rate of their race condem most orcish "
 "females to be little more than baby machines. A small number manage to avoid "
@@ -10803,7 +10803,7 @@ msgid "triage +4"
 msgstr ""
 
 #. [heals]: id=healing
-#: Bad_Moon_Rising/units/Hrala.cfg:53
+#: Bad_Moon_Rising/units/Hrala.cfg:50
 msgid ""
 "Triage +4:\n"
 "This unit uses esoteric herbal remedies to heal units on the battlefield "
@@ -10838,7 +10838,7 @@ msgid "female^cold-heal"
 msgstr ""
 
 #. [regenerate]: id=regenerates_cold
-#: Bad_Moon_Rising/units/Huric-phantom.cfg:89
+#: Bad_Moon_Rising/units/Huric-phantom.cfg:88
 msgid ""
 "Cold Heal:\n"
 "The unit will heal itself 24 HP per turn while the environment is cold."
@@ -10862,7 +10862,7 @@ msgid "Tyrant"
 msgstr ""
 
 #. [unit_type]: id=Huric, race=human
-#: Bad_Moon_Rising/units/Huric.cfg:64
+#: Bad_Moon_Rising/units/Huric.cfg:62
 msgid ""
 "Huric is not the best of leaders, but has a strong grip on power. Much of "
 "this comes from his talent at fending off the orcs, who are a constant "
@@ -10879,7 +10879,7 @@ msgid "War God"
 msgstr ""
 
 #. [unit_type]: id=Primeval Ares, race=primeval
-#: Bad_Moon_Rising/units/Primeval_Ares.cfg:22
+#: Bad_Moon_Rising/units/Primeval_Ares.cfg:21
 msgid ""
 "The title 'War God' is more of a testament to power than a claim to "
 "divinity. This is one of the highest ranks a Primeval can attain.\n"
@@ -10897,7 +10897,7 @@ msgid "Avenging Goddess"
 msgstr ""
 
 #. [unit_type]: id=Primeval Nemesis, race=primeval
-#: Bad_Moon_Rising/units/Primeval_Nemesis.cfg:42
+#: Bad_Moon_Rising/units/Primeval_Nemesis.cfg:41
 msgid ""
 "The Goddess of Vengance gets her title from the fast, ferocious, and "
 "unrelenting way pursues her targets. Her strength, speed, and flight ability "
@@ -10911,7 +10911,7 @@ msgid "Storm Cantor"
 msgstr ""
 
 #. [unit_type]: id=Primeval Storm, race=primeval
-#: Bad_Moon_Rising/units/Primeval_Storm.cfg:25
+#: Bad_Moon_Rising/units/Primeval_Storm.cfg:24
 msgid ""
 "The Storm Cantor is roughly the Primeval equivalent to a mage. Though not "
 "one of the immortal leaders, they possess unusual strength and vitality. "
@@ -10932,7 +10932,7 @@ msgid "female^demigod"
 msgstr ""
 
 #. [regenerate]: id=demigod
-#: Bad_Moon_Rising/units/Primeval_Storm.cfg:56
+#: Bad_Moon_Rising/units/Primeval_Storm.cfg:55
 msgid ""
 "Demigod:\n"
 "The unit will heal itself 24 HP per turn.  If it is poisoned, it will remove "
