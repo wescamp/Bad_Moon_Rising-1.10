@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bad_Moon_Rising-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-04 20:58-0400\n"
+"POT-Creation-Date: 2013-05-21 22:52-0400\n"
 "PO-Revision-Date: 2012-02-15 17:48+0100\n"
 "Last-Translator: Kelemen Zoltan <kelemen_zoltan@freemail.hu>\n"
 "Language-Team: none\n"
@@ -1413,22 +1413,22 @@ msgid "I hear a familiar voice... We should take the western tunnel."
 msgstr "Ismerős hangot hallok... A nyugati járatot kell követnünk."
 
 #. [message]: speaker=Malevan
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:429
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:431
 msgid "Scarrion! You've changed..."
 msgstr "Scarrion! Kissé megváltoztál..."
 
 #. [message]: speaker=Scarrion
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:433
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:435
 msgid "I will destroy you!"
 msgstr "Megöllek!"
 
 #. [message]: speaker=Malevan
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:456
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:458
 msgid "No, not so fast..."
 msgstr "Nono, ne olyan hevesen..."
 
 #. [message]: speaker=Scarrion
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:468
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:470
 msgid ""
 "(I remember this place...)  If we can plug the side tunnels, we will have a "
 "clearer path to victory!"
@@ -1437,7 +1437,7 @@ msgstr ""
 "sima út vezetne a győzelemhez!"
 
 #. [message]: speaker=narrator
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:472
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:474
 msgid ""
 "To close a tunnel, move a unit next to a boulder, on the opposite side of "
 "hex to be closed. Basically, the boulders must be 'pushed' into the tunnel."
@@ -1447,49 +1447,49 @@ msgstr ""
 "a járatba kell 'görgetni'."
 
 #. [message]: speaker=Scarrion
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:484
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:486
 msgid "How could this happen? I've just started..."
 msgstr "Hogy történhet ilyesmi? Csak most kezdtem..."
 
 #. [message]: speaker=Malevan
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:498
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:500
 msgid "Please, no!"
 msgstr "Kérlek, ne!"
 
 #. [message]: speaker=Scarrion
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:502
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:504
 msgid "Powerless, fearful, pathetic... Time to die, foul one."
 msgstr "Erőtlen, reszketeg, szánalmas alak... Ideje elpusztulnod, nyomorult."
 
 #. [message]: speaker=Malevan
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:506
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:508
 msgid "But I spared y-your life!"
 msgstr "De én megkíméltem az é-életedet!"
 
 #. [message]: speaker=Scarrion
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:510
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:512
 msgid "Only so long as I was useful..."
 msgstr "Csak addig, amíg hasznot hajtottam a számodra..."
 
 #. [message]: speaker=Malevan
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:514
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:516
 msgid "GWHAAaahhh!"
 msgstr "GWHAAaahhh!"
 
 #. [message]: speaker=Scarrion
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:522
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:524
 msgid "Now, to escape this cursed mountain!"
 msgstr "Na és most ki innen, el ebből az átkozott hegységből!"
 
 #. [message]: speaker=narrator
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:526
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:528
 msgid ""
 "With the death of the necromancer, most of the undead fell back to the long "
 "sleep."
 msgstr "A holtidéző halálával legtöbb teremtménye is öröklétre szenderült."
 
 #. [message]: speaker=narrator
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:539
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:541
 msgid ""
 "Scarrion spent a few days studying the necromancer's notes, but then he had "
 "to leave the cave."
@@ -1498,7 +1498,7 @@ msgstr ""
 "kellett hagynia a barlangot."
 
 #. [message]: speaker=narrator
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:544
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:546
 msgid ""
 "Once outside, he realized he had no idea where he was, but the sun was "
 "setting, so he knew which direction he had to travel. Lieutenant Bersohn and "
@@ -1509,7 +1509,7 @@ msgstr ""
 "hasonlók megfizetnek a gonoszságaikért..."
 
 #. [message]: speaker=Scarrion
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:558
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:560
 msgid ""
 "I don't feel so well, I feel a hand around my heart... They must think I'm "
 "unworthy...?"
@@ -1518,7 +1518,7 @@ msgstr ""
 "értéktelen vagyok...?"
 
 #. [message]: speaker=Malevan
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:562
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:564
 msgid ""
 "Well, heh... I was worried for a bit. But maybe his corpse will make a good "
 "servant."
@@ -8976,8 +8976,9 @@ msgstr "Az jobb lenne, ha arról írna, hogy juthatunk ki innen."
 
 #. [message]: speaker=narrator
 #: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:909
+#, fuzzy
 msgid ""
-"The air grew colder, and the frosty air becan to spread.  A disembodied "
+"The air grew colder, and the frosty air began to spread.  A disembodied "
 "voice seemed to whisper:  'This is the reward for thieves...'"
 msgstr ""
 "A levegő egyre hidegebb lett, s a fagy csontig hatolt. Egy testetlen hang "

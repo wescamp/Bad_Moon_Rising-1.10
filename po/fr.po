@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bad_Moon_Rising-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-04 20:58-0400\n"
+"POT-Creation-Date: 2013-05-21 22:52-0400\n"
 "PO-Revision-Date: 2012-07-05 14:16+0200\n"
 "Last-Translator: Guillaume Pascal <guillaume.pascal43@laposte.net>\n"
 "Language-Team: français <Équipe de traduction française <wesnoth@ml.free."
@@ -1451,22 +1451,22 @@ msgstr ""
 "J'entends une vois familière... Nous devrions prendre la galerie occidentale."
 
 #. [message]: speaker=Malevan
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:429
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:431
 msgid "Scarrion! You've changed..."
 msgstr "Scarrion ! vous avez changé..."
 
 #. [message]: speaker=Scarrion
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:433
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:435
 msgid "I will destroy you!"
 msgstr "Je vous détruirai !"
 
 #. [message]: speaker=Malevan
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:456
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:458
 msgid "No, not so fast..."
 msgstr "Non ! Pas si vite..."
 
 #. [message]: speaker=Scarrion
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:468
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:470
 msgid ""
 "(I remember this place...)  If we can plug the side tunnels, we will have a "
 "clearer path to victory!"
@@ -1475,7 +1475,7 @@ msgstr ""
 "côté, le chemin vers la victoire est tout tracé !"
 
 #. [message]: speaker=narrator
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:472
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:474
 msgid ""
 "To close a tunnel, move a unit next to a boulder, on the opposite side of "
 "hex to be closed. Basically, the boulders must be 'pushed' into the tunnel."
@@ -1485,43 +1485,43 @@ msgstr ""
 "doivent être « poussés » dans le tunnel."
 
 #. [message]: speaker=Scarrion
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:484
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:486
 msgid "How could this happen? I've just started..."
 msgstr "Comment cela a-t-il pu arriver ? J'ai juste commencé..."
 
 #. [message]: speaker=Malevan
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:498
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:500
 msgid "Please, no!"
 msgstr "S'il vous plaît, non !"
 
 #. [message]: speaker=Scarrion
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:502
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:504
 msgid "Powerless, fearful, pathetic... Time to die, foul one."
 msgstr ""
 "Impuissant, craintif, pathétique... Il est temps de mourir, pauvre pécheur."
 
 #. [message]: speaker=Malevan
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:506
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:508
 msgid "But I spared y-your life!"
 msgstr "Mais je vous ai épargné !"
 
 #. [message]: speaker=Scarrion
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:510
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:512
 msgid "Only so long as I was useful..."
 msgstr "Seulement tant que j'étais utile..."
 
 #. [message]: speaker=Malevan
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:514
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:516
 msgid "GWHAAaahhh!"
 msgstr "Graaahhh !"
 
 #. [message]: speaker=Scarrion
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:522
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:524
 msgid "Now, to escape this cursed mountain!"
 msgstr "Fuyez ces foutues montagnes tout de suite !"
 
 #. [message]: speaker=narrator
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:526
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:528
 msgid ""
 "With the death of the necromancer, most of the undead fell back to the long "
 "sleep."
@@ -1530,7 +1530,7 @@ msgstr ""
 "leur long sommeil."
 
 #. [message]: speaker=narrator
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:539
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:541
 msgid ""
 "Scarrion spent a few days studying the necromancer's notes, but then he had "
 "to leave the cave."
@@ -1539,7 +1539,7 @@ msgstr ""
 "quoi il dut quitter la grotte."
 
 #. [message]: speaker=narrator
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:544
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:546
 msgid ""
 "Once outside, he realized he had no idea where he was, but the sun was "
 "setting, so he knew which direction he had to travel. Lieutenant Bersohn and "
@@ -1551,7 +1551,7 @@ msgstr ""
 "paieraient pour leurs machinations..."
 
 #. [message]: speaker=Scarrion
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:558
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:560
 msgid ""
 "I don't feel so well, I feel a hand around my heart... They must think I'm "
 "unworthy...?"
@@ -1560,7 +1560,7 @@ msgstr ""
 "Ils pensent que je suis un incapable... ?"
 
 #. [message]: speaker=Malevan
-#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:562
+#: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:564
 msgid ""
 "Well, heh... I was worried for a bit. But maybe his corpse will make a good "
 "servant."
@@ -9242,8 +9242,9 @@ msgstr "Ce serait mieux, si elle connaissait une façon de sortir d'ici."
 
 #. [message]: speaker=narrator
 #: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:909
+#, fuzzy
 msgid ""
-"The air grew colder, and the frosty air becan to spread.  A disembodied "
+"The air grew colder, and the frosty air began to spread.  A disembodied "
 "voice seemed to whisper:  'This is the reward for thieves...'"
 msgstr ""
 "L'air se refroidissait, et l'air glacial commençait à se répandre. Une voix "
